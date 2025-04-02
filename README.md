@@ -10,14 +10,13 @@ These notes cover key topics in **Statistical Learning**, **Data Science** and *
 
 All materials are in **Italian**, as they are based on courses I attended at an **Italian university**. However, if you need help with this subject in **English**, feel free to reach out—I’d be happy to suggest some resources in English! 😊
 
-📂 Struttura
-------------
-
 📜 **Documento Introduttivo**
 -----------------------------
 
 * 📄 `Intro_Data_Science_1609.pdf` → Introduzione generale ai concetti di Data Science e Statistical Learning.
 
+📂 Struttura
+------------
 
 * 📁 **1 - Model Based** – Contiene appunti su modelli statistici basati su ipotesi probabilistiche, suddivisi in:
     
