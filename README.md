@@ -10,6 +10,20 @@ These notes cover key topics in **Statistical Learning**, **Data Science** and *
 
 All materials are in **Italian**, as they are based on courses I attended at an **Italian university**. However, if you need help with this subject in **English**, feel free to reach out—I’d be happy to suggest some resources in English! 😊
 
+🌟 Dai, lascia una stellina!
+----------------------------
+
+Ciao! 👋  
+Questi appunti sono qui su GitHub, completamente **gratuiti**, per dare una mano a chi studia o è semplicemente curioso.
+
+Se ti sono utili puoi supportare il progetto con un piccolo gesto:
+
+- ⭐ **Metti una stellina alla repo** — è veloce, gratuita e motiva tantissimo!
+- 📢 Condividila con amici, colleghi o chiunque possa trovarla utile
+
+Una stellina non cambia il mondo, ma migliora la giornata di chi ha scritto tutto questo 😉  
+**Grazie!**
+
 📂 Struttura
 ------------
 
