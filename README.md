@@ -3,6 +3,8 @@
 
 Questa repository raccoglie appunti strutturati su concetti chiave dell'apprendimento statistico, di Data Science e di Data Analysis, basati su lezioni, slide e testi di riferimento. Gli argomenti trattati includono statistica classica, inferenza bayesiana, regressione, classificazione e metodi di apprendimento non supervisionato. Particolare attenzione è stata prestata a stima dei parametri, modelli predittivi e tecniche di ottimizzazione.
 
+> Demonstrated strong theoretical foundation in statistical learning, data science, and data analysis, covering classical and Bayesian inference, regression, classification, and unsupervised learning methods.
+
 📌 Note for English Speakers
 ----------------------------
 
